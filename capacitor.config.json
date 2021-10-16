@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "2f-authenticator",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

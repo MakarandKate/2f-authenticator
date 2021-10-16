@@ -1,0 +1,7 @@
+{
+  "name": "2f-authenticator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

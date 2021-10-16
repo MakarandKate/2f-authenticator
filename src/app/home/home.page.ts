@@ -16,8 +16,6 @@ export class HomePage {
   ionViewDidEnter(){
     console.log("afterViewDidEnter")
     let token=getToken("NG34TAMDU7TWMHPJV4SJTWRX237HSRJR",{
-      //period:60,
-      //algorithm:'SHA-1',
       digits:6
     })
 
